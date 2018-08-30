@@ -1,0 +1,191 @@
+ [
+        {
+            "Id": 1,
+            "CodigoUF": 12,
+            "Nome": "Acre",
+            "UF": "AC",
+            "Regiao": 1
+        },
+        {
+            "Id": 2,
+            "CodigoUF": 27,
+            "Nome": "Alagoas",
+            "UF": "AL",
+            "Regiao": 2
+        },
+        {
+            "Id": 3,
+            "CodigoUF": 16,
+            "Nome": "Amapá",
+            "UF": "AP",
+            "Regiao": 1
+        },
+        {
+            "Id": 4,
+            "CodigoUF": 13,
+            "Nome": "Amazonas",
+            "UF": "AM",
+            "Regiao": 1
+        },
+        {
+            "Id": 5,
+            "CodigoUF": 29,
+            "Nome": "Bahia",
+            "UF": "BA",
+            "Regiao": 2
+        },
+        {
+            "Id": 6,
+            "CodigoUF": 23,
+            "Nome": "Ceará",
+            "UF": "CE",
+            "Regiao": 2
+        },
+        {
+            "Id": 7,
+            "CodigoUF": 53,
+            "Nome": "Distrito Federal",
+            "UF": "DF",
+            "Regiao": 5
+        },
+        {
+            "Id": 8,
+            "CodigoUF": 32,
+            "Nome": "Espírito Santo",
+            "UF": "ES",
+            "Regiao": 3
+        },
+        {
+            "Id": 9,
+            "CodigoUF": 52,
+            "Nome": "Goiás",
+            "UF": "GO",
+            "Regiao": 5
+        },
+        {
+            "Id": 10,
+            "CodigoUF": 21,
+            "Nome": "Maranhão",
+            "UF": "MA",
+            "Regiao": 2
+        },
+        {
+            "Id": 11,
+            "CodigoUF": 51,
+            "Nome": "Mato Grosso",
+            "UF": "MT",
+            "Regiao": 5
+        },
+        {
+            "Id": 12,
+            "CodigoUF": 50,
+            "Nome": "Mato Grosso do Sul",
+            "UF": "MS",
+            "Regiao": 5
+        },
+        {
+            "Id": 13,
+            "CodigoUF": 31,
+            "Nome": "Minas Gerais",
+            "UF": "MG",
+            "Regiao": 3
+        },
+        {
+            "Id": 14,
+            "CodigoUF": 15,
+            "Nome": "Pará",
+            "UF": "PA",
+            "Regiao": 1
+        },
+        {
+            "Id": 15,
+            "CodigoUF": 25,
+            "Nome": "Paraíba",
+            "UF": "PB",
+            "Regiao": 2
+        },
+        {
+            "Id": 16,
+            "CodigoUF": 41,
+            "Nome": "Paraná",
+            "UF": "PR",
+            "Regiao": 4
+        },
+        {
+            "Id": 17,
+            "CodigoUF": 26,
+            "Nome": "Pernambuco",
+            "UF": "PE",
+            "Regiao": 2
+        },
+        {
+            "Id": 18,
+            "CodigoUF": 22,
+            "Nome": "Piauí",
+            "UF": "PI",
+            "Regiao": 2
+        },
+        {
+            "Id": 19,
+            "CodigoUF": 33,
+            "Nome": "Rio de Janeiro",
+            "UF": "RJ",
+            "Regiao": 3
+        },
+        {
+            "Id": 20,
+            "CodigoUF": 24,
+            "Nome": "Rio Grande do Norte",
+            "UF": "RN",
+            "Regiao": 2
+        },
+        {
+            "Id": 21,
+            "CodigoUF": 43,
+            "Nome": "Rio Grande do Sul",
+            "UF": "RS",
+            "Regiao": 4
+        },
+        {
+            "Id": 22,
+            "CodigoUF": 11,
+            "Nome": "Rondônia",
+            "UF": "RO",
+            "Regiao": 1
+        },
+        {
+            "Id": 23,
+            "CodigoUF": 14,
+            "Nome": "Roraima",
+            "UF": "RR",
+            "Regiao": 1
+        },
+        {
+            "Id": 24,
+            "CodigoUF": 42,
+            "Nome": "Santa Catarina",
+            "UF": "SC",
+            "Regiao": 4
+        },
+        {
+            "Id": 25,
+            "CodigoUF": 35,
+            "Nome": "São Paulo",
+            "UF": "SP",
+            "Regiao": 3
+        },
+        {
+            "Id": 26,
+            "CodigoUF": 28,
+            "Nome": "Sergipe",
+            "UF": "SE",
+            "Regiao": 2
+        },
+        {
+            "Id": 27,
+            "CodigoUF": 17,
+            "Nome": "Tocantins",
+            "UF": "TO",
+            "Regiao": 1
+        }
+]
